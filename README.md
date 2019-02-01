@@ -1,3 +1,3 @@
 # TicTacToe
-Android App
+Android TicTacToe
 test application for workshop
